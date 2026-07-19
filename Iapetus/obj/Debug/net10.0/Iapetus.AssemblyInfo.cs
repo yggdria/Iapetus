@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iapetus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4fdb35059426623cb8d9a0bbf5a9c236b48dea8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69baede2a5dbd2a9f95ae46ff4c67f5841b91261")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iapetus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iapetus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

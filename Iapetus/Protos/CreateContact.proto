@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "Iapetus";
+
+package CreateContact;
+
+service CreateContactService {
+  rpc GetContact (ContactRequest) returns (ContactReply);
+}
+
+message ContactRequest {
+  string guid = 1;
+}
+
+message ContactReply {
+  string guid = 1;
+  string name = 2;
+  string lastName = 3;
+}
